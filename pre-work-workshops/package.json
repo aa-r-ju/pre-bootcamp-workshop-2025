@@ -1,0 +1,15 @@
+{
+  "name": "pre-work-workshops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pre-bootcamp-workshop-2025"
+  },
+  "author": "",
+  "license": "ISC"
+}
