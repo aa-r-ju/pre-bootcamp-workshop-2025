@@ -5,6 +5,6 @@ Define a function, `defaultGreet`, that takes a first and a last name.
 does not define a last name, assume the last name is 'Doe'.
 
 ```javascript
-defaultGreet('Chaka', 'Khan'); // => 'Hi Chaka Khan!'
-defaultGreet('John'); // => 'Hi John Doe!'
+defaultGreet("Chaka", "Khan"); // => 'Hi Chaka Khan!'
+defaultGreet("John"); // => 'Hi John Doe!'
 ```
