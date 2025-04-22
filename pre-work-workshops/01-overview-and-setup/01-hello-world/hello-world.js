@@ -1,4 +1,4 @@
-console.log('hello world!');
+console.log("hello world!");
 
 // this is a comment!
 
@@ -6,3 +6,5 @@ console.log('hello world!');
   this is also a comment!
   it spans multiple lines!
 */
+let name = "Aarju";
+console.log("Hello world " + "this is " + name);
