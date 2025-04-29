@@ -2,7 +2,7 @@
 let me2 = {
   name: "Tarana",
   getGreeting: function (para) {
-    return `Hi ${para.name}, my name is ${me2.name}. `;
+    return `Hi ${para.name}, my name is ${me2.name}.`;
   },
 };
 
